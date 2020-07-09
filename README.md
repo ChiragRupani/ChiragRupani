@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Chirag. I am full stack software developer. 
+
+🔭 I’m currently working on the Progressive Web App for the client using Asp.Net Core, React, TypeScript and T-SQL.
+
+🤔 I'm interested in Software Development, Software Architecture and Design, Clean Code, analysing and debugging solutions.
+
+
+
+
+
 <!--
 **ChiragRupani/ChiragRupani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
