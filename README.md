@@ -6,12 +6,10 @@ I am Chirag. I am full stack software developer.
 
 🤔 I'm interested in Software Development, Software Architecture and Design, Clean Code, analysing and debugging solutions.
 
-<h4>💻 Open for job opportunity. 📧 chiragrupani23@outlook.com  👈</h4>
-
-
 🌐 My Site: https://chiragrupani.github.io/MySite/
 
 
+### 💻 Open for job opportunity. 📧 chiragrupani23@outlook.com  👈
 
 
 <!--
