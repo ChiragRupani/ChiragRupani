@@ -2,14 +2,14 @@
 
 I am Chirag. I am full stack software developer. 
 
-🔭 I’m currently working on the Progressive Web App using .NET 5, ASP.NET Core, React, TypeScript and T-SQL.
+🔭 I’m currently working on the Progressive Web App using .NET 6, ASP.NET Core, React, TypeScript, T-SQL, microServices based architecture and Microsoft Azure.
 
 🤔 I'm interested in Software Development, Software Architecture and Design, Clean Code, analysing and debugging solutions.
 
 🌐 My Site: https://chiragrupani.github.io/MySite/
 
 
-### 💻 Open for job opportunity. 📧 chiragrupani23@outlook.com  👈
+ ### 💼💻 Look for job change, contact me at 📧 chiragrupani23@outlook.com  👈
 
 
 <!--
