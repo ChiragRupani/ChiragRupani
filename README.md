@@ -9,7 +9,7 @@ I am Chirag. I am full stack software developer.
 🌐 My Site: https://chiragrupani.github.io/MySite/
 
 
- ### 💼💻 Look for job change, contact me at 📧 chiragrupani23@outlook.com  👈
+ ### 💼💻 Looking for a job change, contact me at 📧 chiragrupani23@outlook.com  👈
 
 
 <!--
