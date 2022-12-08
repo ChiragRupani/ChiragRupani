@@ -8,7 +8,7 @@ I am Chirag. I am full stack software developer 💻.
 
 🌐 My Site: https://chiragrupani.github.io/MySite/
 
- ### 💼💻 I am currently looking for a new job opportunity where I can continue to grow and develop as a software engineer. If you want to contact me, you can send me an email at [chiragrupani23@outlook.com](mailto:chiragrupani23@outlook.com) 📧 
+ ### 📧 I am currently looking for a new job opportunity where I can continue to grow and develop as a software engineer. If you want to contact me, you can send me an email at [chiragrupani23@outlook.com](mailto:chiragrupani23@outlook.com) 
 
 ⚡ I have a passion for clean and maintainable code, and I always strive to write code that is easy to read and understand. 
 
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 👋
+- 👋 💼💻 
 - 📦 projects 
 -->
