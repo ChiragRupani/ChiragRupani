@@ -2,7 +2,7 @@
 
 I am Chirag. I am full stack software developer 💻. 
 
-🔭 I’m currently working on the Progressive Web App using .NET 7, ASP.NET Core, React, TypeScript, T-SQL, microServices based architecture and Microsoft Azure.
+🔭 I’m currently working on the Progressive Web App using .NET 8, ASP.NET Core, React, TypeScript, T-SQL, Cosmos DB, microservices based architecture and Microsoft Azure.
 
 🤔 I'm interested in Software Development, Software Architecture and Design, Clean Code, analysing and debugging solutions.
 
